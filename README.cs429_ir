@@ -1,0 +1,5 @@
+This is a Lucene repository that has a structured date-range, which should
+perform better than the lexicographic hack Lucene users have had to use.
+
+It is on github because we want it to be accessible, and because we are more
+familiar with git than with SVN.
