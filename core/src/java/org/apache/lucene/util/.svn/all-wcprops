@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util
+END
+SetOnce.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/SetOnce.java
+END
+PrintStreamInfoStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/PrintStreamInfoStream.java
+END
+TwoPhaseCommitTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/TwoPhaseCommitTool.java
+END
+TwoPhaseCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/TwoPhaseCommit.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/Attribute.java
+END
+StringHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/StringHelper.java
+END
+ByteBlockPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1303860/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/ByteBlockPool.java
+END
+DoubleBarrelLRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/DoubleBarrelLRUCache.java
+END
+AttributeReflector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/AttributeReflector.java
+END
+SorterTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/SorterTemplate.java
+END
+FixedBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/FixedBitSet.java
+END
+CodecUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1302752/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/CodecUtil.java
+END
+BitUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/BitUtil.java
+END
+TermContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/TermContext.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1304485/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/Constants.java
+END
+CommandLineUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/CommandLineUtil.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/Version.java
+END
+OpenBitSetDISI.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1303860/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/OpenBitSetDISI.java
+END
+BytesRefHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1303860/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/BytesRefHash.java
+END
+VirtualMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/VirtualMethod.java
+END
+MathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1309883/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/MathUtil.java
+END
+NamedSPILoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1305790/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/NamedSPILoader.java
+END
+PagedBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/PagedBytes.java
+END
+CollectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/CollectionUtil.java
+END
+ToStringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/ToStringUtils.java
+END
+CloseableThreadLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1300547/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/CloseableThreadLocal.java
+END
+CharsRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/CharsRef.java
+END
+RollingCharBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1305149/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/RollingCharBuffer.java
+END
+WeakIdentityMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/WeakIdentityMap.java
+END
+ReaderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1297162/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/ReaderUtil.java
+END
+MapOfSets.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/MapOfSets.java
+END
+Bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1302752/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/Bits.java
+END
+NamedThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/NamedThreadFactory.java
+END
+InfoStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/InfoStream.java
+END
+DummyConcurrentLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/DummyConcurrentLock.java
+END
+IndexableBinaryStringTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1297162/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/IndexableBinaryStringTools.java
+END
+SentinelIntSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/SentinelIntSet.java
+END
+IntsRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/IntsRef.java
+END
+MutableBits.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/MutableBits.java
+END
+MultiBits.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/MultiBits.java
+END
+ArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/ArrayUtil.java
+END
+OpenBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/OpenBitSet.java
+END
+ThreadInterruptedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/ThreadInterruptedException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/package.html
+END
+RecyclingByteBlockAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/RecyclingByteBlockAllocator.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/Counter.java
+END
+BitsSlice.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/BitsSlice.java
+END
+NumericUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/NumericUtils.java
+END
+BytesRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1293148/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/BytesRef.java
+END
+AttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1307012/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/AttributeSource.java
+END
+FieldCacheSanityChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1302133/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/FieldCacheSanityChecker.java
+END
+UnicodeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/UnicodeUtil.java
+END
+AttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/AttributeImpl.java
+END
+OpenBitSetIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/OpenBitSetIterator.java
+END
+PriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/PriorityQueue.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/IOUtils.java
+END
+ScorerDocQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/ScorerDocQueue.java
+END
+RamUsageEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1304564/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/RamUsageEstimator.java
+END
+DocIdBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/DocIdBitSet.java
+END
+BytesRefIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1304134/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/BytesRefIterator.java
+END
+SortedVIntList.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/SortedVIntList.java
+END
+SmallFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/SmallFloat.java
+END

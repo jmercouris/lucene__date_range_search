@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/search
+END
+ShardSearchingTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/search/ShardSearchingTestBase.java
+END
+RandomSimilarityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/search/RandomSimilarityProvider.java
+END
+SearchEquivalenceTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/search/SearchEquivalenceTestBase.java
+END
+AssertingIndexSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/search/AssertingIndexSearcher.java
+END
+CheckHits.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1302752/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/search/CheckHits.java
+END
+QueryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1308122/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/search/QueryUtils.java
+END

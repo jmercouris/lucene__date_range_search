@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis
+END
+TestGraphTokenizers.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis/TestGraphTokenizers.java
+END
+TestMockAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis/TestMockAnalyzer.java
+END
+TestNumericTokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis/TestNumericTokenStream.java
+END
+TestToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis/TestToken.java
+END
+TestCachingTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis/TestCachingTokenFilter.java
+END
+TestMockCharFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis/TestMockCharFilter.java
+END
+TestLookaheadTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis/TestLookaheadTokenFilter.java
+END

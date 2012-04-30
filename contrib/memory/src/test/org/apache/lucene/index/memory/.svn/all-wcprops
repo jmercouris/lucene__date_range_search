@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/memory/src/test/org/apache/lucene/index/memory
+END
+MemoryIndexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/memory/src/test/org/apache/lucene/index/memory/MemoryIndexTest.java
+END
+testqueries.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/memory/src/test/org/apache/lucene/index/memory/testqueries.txt
+END
+testqueries2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/memory/src/test/org/apache/lucene/index/memory/testqueries2.txt
+END

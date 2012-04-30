@@ -1,0 +1,821 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index
+END
+unsupported.20.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.20.nocfs.zip
+END
+TestPostingsOffsets.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestPostingsOffsets.java
+END
+TestSnapshotDeletionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestSnapshotDeletionPolicy.java
+END
+TestPayloadProcessorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestPayloadProcessorProvider.java
+END
+unsupported.24.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.24.nocfs.zip
+END
+TestDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDoc.java
+END
+TestIndexWriterCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterCommit.java
+END
+TestIsCurrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIsCurrent.java
+END
+TestSegmentTermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestSegmentTermEnum.java
+END
+index.31.optimized.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.31.optimized.nocfs.zip
+END
+TestIndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexInput.java
+END
+TestCustomNorms.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestCustomNorms.java
+END
+Test2BPostings.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/Test2BPostings.java
+END
+TestFlex.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestFlex.java
+END
+TestIndexWriterOnDiskFull.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterOnDiskFull.java
+END
+TestIndexableField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexableField.java
+END
+TestSegmentTermDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestSegmentTermDocs.java
+END
+TestCheckIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestCheckIndex.java
+END
+TestIndexWriterExceptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterExceptions.java
+END
+TestTransactions.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestTransactions.java
+END
+unsupported.19.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.19.cfs.zip
+END
+TestDocumentWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDocumentWriter.java
+END
+TestCrashCausesCorruptIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestCrashCausesCorruptIndex.java
+END
+index.30.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.30.nocfs.zip
+END
+index.34.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.34.nocfs.zip
+END
+TestPersistentSnapshotDeletionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestPersistentSnapshotDeletionPolicy.java
+END
+TestMaxTermFrequency.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestMaxTermFrequency.java
+END
+unsupported.21.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.21.nocfs.zip
+END
+TestConcurrentMergeScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestConcurrentMergeScheduler.java
+END
+TestOmitTf.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestOmitTf.java
+END
+unsupported.20.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.20.cfs.zip
+END
+unsupported.21.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.21.cfs.zip
+END
+TestIndexWriterMergePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterMergePolicy.java
+END
+unsupported.22.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.22.cfs.zip
+END
+unsupported.23.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.23.cfs.zip
+END
+TestStressNRT.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestStressNRT.java
+END
+unsupported.24.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.24.cfs.zip
+END
+unsupported.29.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.29.nocfs.zip
+END
+wordliststopwords_nocomment.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/wordliststopwords_nocomment.txt
+END
+unsupported.29.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.29.cfs.zip
+END
+TestNRTThreads.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestNRTThreads.java
+END
+TestOmitPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestOmitPositions.java
+END
+TestNoDeletionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestNoDeletionPolicy.java
+END
+TestIndexCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexCommit.java
+END
+TestCompoundFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestCompoundFile.java
+END
+index.31.optimized.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.31.optimized.cfs.zip
+END
+TestOmitNorms.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestOmitNorms.java
+END
+TestDirectoryReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDirectoryReader.java
+END
+TestIndexWriterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterReader.java
+END
+wordliststopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/wordliststopwords.txt
+END
+TestRollingUpdates.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestRollingUpdates.java
+END
+TestNRTReaderWithThreads.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestNRTReaderWithThreads.java
+END
+TestTransactionRollback.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestTransactionRollback.java
+END
+TestBinaryTerms.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestBinaryTerms.java
+END
+TestDirectoryReaderReopen.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDirectoryReaderReopen.java
+END
+TestSegmentMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestSegmentMerger.java
+END
+TestAddIndexes.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestAddIndexes.java
+END
+index.36.surrogates.zip
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.36.surrogates.zip
+END
+TestTieredMergePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestTieredMergePolicy.java
+END
+TestPayloads.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestPayloads.java
+END
+TestThreadedForceMerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestThreadedForceMerge.java
+END
+TestTermsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestTermsEnum.java
+END
+index.31.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.31.nocfs.zip
+END
+TestSameTokenSamePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestSameTokenSamePosition.java
+END
+index.30.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.30.cfs.zip
+END
+index.31.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.31.cfs.zip
+END
+index.32.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.32.cfs.zip
+END
+TestLongPostings.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestLongPostings.java
+END
+index.34.cfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.34.cfs.zip
+END
+TestRandomStoredFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestRandomStoredFields.java
+END
+TestFlushByRamOrCountsPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestFlushByRamOrCountsPolicy.java
+END
+TestBackwardsCompatibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestBackwardsCompatibility.java
+END
+TestLazyProxSkipping.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestLazyProxSkipping.java
+END
+TestNorms.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestNorms.java
+END
+unsupported.22.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.22.nocfs.zip
+END
+TestStressAdvance.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestStressAdvance.java
+END
+TestParallelTermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestParallelTermEnum.java
+END
+TestSizeBoundedForceMerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestSizeBoundedForceMerge.java
+END
+TestIndexWriterUnicode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterUnicode.java
+END
+TestParallelAtomicReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestParallelAtomicReader.java
+END
+TestNoMergePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestNoMergePolicy.java
+END
+TestDocCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDocCount.java
+END
+TestDocsAndPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDocsAndPositions.java
+END
+TestIndexWriterNRTIsCurrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterNRTIsCurrent.java
+END
+TestTypePromotion.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestTypePromotion.java
+END
+TestRollback.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestRollback.java
+END
+TestStressIndexing2.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestStressIndexing2.java
+END
+TestNoMergeScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestNoMergeScheduler.java
+END
+TestForTooMuchCloning.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestForTooMuchCloning.java
+END
+TestTermVectorsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestTermVectorsReader.java
+END
+TestParallelCompositeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestParallelCompositeReader.java
+END
+TestIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriter.java
+END
+TestFilterAtomicReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestFilterAtomicReader.java
+END
+TestMultiLevelSkipList.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestMultiLevelSkipList.java
+END
+TestForceMergeForever.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestForceMergeForever.java
+END
+TestDuelingCodecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDuelingCodecs.java
+END
+TestTermVectorsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestTermVectorsWriter.java
+END
+TestIndexFileDeleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexFileDeleter.java
+END
+TestIndexWriterLockRelease.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterLockRelease.java
+END
+TestMultiFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestMultiFields.java
+END
+index.32.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/index.32.nocfs.zip
+END
+TestNewestSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestNewestSegment.java
+END
+TestIndexWriterConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterConfig.java
+END
+TestCodecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestCodecs.java
+END
+TestCrash.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestCrash.java
+END
+BinaryTokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/BinaryTokenStream.java
+END
+TestNeverDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestNeverDelete.java
+END
+TestIndexWriterForceMerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterForceMerge.java
+END
+unsupported.23.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.23.nocfs.zip
+END
+TestByteSlices.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestByteSlices.java
+END
+TestUniqueTermCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestUniqueTermCount.java
+END
+TestPrefixCodedTerms.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestPrefixCodedTerms.java
+END
+TestSumDocFreq.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestSumDocFreq.java
+END
+TestIndexWriterWithThreads.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterWithThreads.java
+END
+TestAtomicUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestAtomicUpdate.java
+END
+TestFieldInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestFieldInfos.java
+END
+TestDocTermOrds.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDocTermOrds.java
+END
+TestIndexWriterDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterDelete.java
+END
+TestMixedCodecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestMixedCodecs.java
+END
+TestFieldsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestFieldsReader.java
+END
+TestTermsEnum2.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestTermsEnum2.java
+END
+TestTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestTerm.java
+END
+unsupported.19.nocfs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/unsupported.19.nocfs.zip
+END
+TestStressIndexing.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestStressIndexing.java
+END
+TestTermdocPerf.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestTermdocPerf.java
+END
+TestDocValuesIndexing.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDocValuesIndexing.java
+END
+TestIndexWriterMerging.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterMerging.java
+END
+Test2BTerms.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/Test2BTerms.java
+END
+TestPerSegmentDeletes.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestPerSegmentDeletes.java
+END
+TestDeletionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDeletionPolicy.java
+END
+TestIndexWriterOnJRECrash.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestIndexWriterOnJRECrash.java
+END
+TestSegmentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestSegmentReader.java
+END
+TestParallelReaderEmptyIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestParallelReaderEmptyIndex.java
+END
+TestDocumentsWriterDeleteQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestDocumentsWriterDeleteQueue.java
+END
+TestConsistentFieldNumbers.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestConsistentFieldNumbers.java
+END
+TestReaderClosed.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/index/TestReaderClosed.java
+END

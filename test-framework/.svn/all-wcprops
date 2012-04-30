@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1326372/lucene/dev/trunk/lucene/test-framework
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/ivy.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1307563/lucene/dev/trunk/lucene/test-framework/build.xml
+END

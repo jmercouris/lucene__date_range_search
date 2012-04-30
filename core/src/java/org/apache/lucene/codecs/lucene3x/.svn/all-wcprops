@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x
+END
+TermBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/TermBuffer.java
+END
+SegmentTermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/SegmentTermPositions.java
+END
+Lucene3xFieldInfosFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xFieldInfosFormat.java
+END
+SegmentTermDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/SegmentTermDocs.java
+END
+Lucene3xTermVectorsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xTermVectorsReader.java
+END
+Lucene3xStoredFieldsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xStoredFieldsFormat.java
+END
+Lucene3xNormsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1299495/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xNormsProducer.java
+END
+Lucene3xFieldInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1299375/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xFieldInfosReader.java
+END
+Lucene3xFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xFields.java
+END
+Lucene3xNormsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xNormsFormat.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/package.html
+END
+SegmentTermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1307012/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/SegmentTermEnum.java
+END
+Lucene3xStoredFieldsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xStoredFieldsReader.java
+END
+Lucene3xSegmentInfosFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xSegmentInfosFormat.java
+END
+TermInfosReaderIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1309866/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/TermInfosReaderIndex.java
+END
+TermInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/TermInfo.java
+END
+Lucene3xCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xCodec.java
+END
+Lucene3xPostingsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xPostingsFormat.java
+END
+TermInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1307012/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/TermInfosReader.java
+END
+Lucene3xSegmentInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xSegmentInfosReader.java
+END
+Lucene3xTermVectorsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/Lucene3xTermVectorsFormat.java
+END

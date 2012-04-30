@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/highlighter
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1307563/lucene/dev/trunk/lucene/contrib/highlighter/ivy.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1326247/lucene/dev/trunk/lucene/contrib/highlighter/build.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1326329/lucene/dev/trunk/lucene/contrib/demo
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1307563/lucene/dev/trunk/lucene/contrib/demo/ivy.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1326329/lucene/dev/trunk/lucene/contrib/demo/build.xml
+END

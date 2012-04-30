@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight
+END
+AbstractTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/AbstractTestCase.java
+END
+FieldTermStackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1166954/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/FieldTermStackTest.java
+END
+FieldPhraseListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1139995/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/FieldPhraseListTest.java
+END
+IndexTimeSynonymTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1242890/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/IndexTimeSynonymTest.java
+END
+SingleFragListBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1144566/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/SingleFragListBuilderTest.java
+END
+ScoreOrderFragmentsBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1232470/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/ScoreOrderFragmentsBuilderTest.java
+END
+SimpleBoundaryScannerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/SimpleBoundaryScannerTest.java
+END
+SimpleFragmentsBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1232769/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/SimpleFragmentsBuilderTest.java
+END
+FieldQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1166954/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/FieldQueryTest.java
+END
+BreakIteratorBoundaryScannerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/BreakIteratorBoundaryScannerTest.java
+END
+SimpleFragListBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1184753/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/vectorhighlight/SimpleFragListBuilderTest.java
+END

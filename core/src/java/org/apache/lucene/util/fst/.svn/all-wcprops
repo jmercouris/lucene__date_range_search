@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst
+END
+PairOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/PairOutputs.java
+END
+ByteSequenceOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/ByteSequenceOutputs.java
+END
+IntsRefFSTEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/IntsRefFSTEnum.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/Util.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/package.html
+END
+NoOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/NoOutputs.java
+END
+PositiveIntOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/PositiveIntOutputs.java
+END
+FSTEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/FSTEnum.java
+END
+UpToTwoPositiveIntOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/UpToTwoPositiveIntOutputs.java
+END
+Outputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/Outputs.java
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/TODO
+END
+BytesRefFSTEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/BytesRefFSTEnum.java
+END
+Builder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/Builder.java
+END
+IntSequenceOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/IntSequenceOutputs.java
+END
+NodeHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/NodeHash.java
+END
+FST.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1303025/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/util/fst/FST.java
+END

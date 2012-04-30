@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/sandbox/src/test/org/apache/lucene/sandbox/queries
+END
+DuplicateFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/sandbox/src/test/org/apache/lucene/sandbox/queries/DuplicateFilterTest.java
+END
+FuzzyLikeThisQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/sandbox/src/test/org/apache/lucene/sandbox/queries/FuzzyLikeThisQueryTest.java
+END
+TestSlowCollationMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/sandbox/src/test/org/apache/lucene/sandbox/queries/TestSlowCollationMethods.java
+END

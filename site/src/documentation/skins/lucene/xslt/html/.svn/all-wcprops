@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/lucene/xslt/html
+END
+book-to-menu.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/lucene/xslt/html/book-to-menu.xsl
+END
+site-to-xhtml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/lucene/xslt/html/site-to-xhtml.xsl
+END
+document-to-html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/lucene/xslt/html/document-to-html.xsl
+END
+tab-to-menu.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/lucene/xslt/html/tab-to-menu.xsl
+END

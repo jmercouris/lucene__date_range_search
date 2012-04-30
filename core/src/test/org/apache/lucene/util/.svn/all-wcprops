@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util
+END
+TestSetOnce.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestSetOnce.java
+END
+StressRamUsageEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/StressRamUsageEstimator.java
+END
+TestTwoPhaseCommitTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestTwoPhaseCommitTool.java
+END
+TestByteBlockPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestByteBlockPool.java
+END
+TestDoubleBarrelLRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestDoubleBarrelLRUCache.java
+END
+TestIdentityHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestIdentityHashSet.java
+END
+TestFixedBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestFixedBitSet.java
+END
+TestBitUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestBitUtil.java
+END
+TestVersionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestVersionComparator.java
+END
+TestVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestVersion.java
+END
+TestPagedBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestPagedBytes.java
+END
+TestNamedSPILoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestNamedSPILoader.java
+END
+TestBytesRefHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestBytesRefHash.java
+END
+TestVirtualMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestVirtualMethod.java
+END
+TestCollectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestCollectionUtil.java
+END
+TestCloseableThreadLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestCloseableThreadLocal.java
+END
+TestCharsRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestCharsRef.java
+END
+TestRollingCharBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestRollingCharBuffer.java
+END
+TestWeakIdentityMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestWeakIdentityMap.java
+END
+TestRollingBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestRollingBuffer.java
+END
+makeEuroparlLineFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/makeEuroparlLineFile.py
+END
+TestSentinelIntSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestSentinelIntSet.java
+END
+TestIndexableBinaryStringTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestIndexableBinaryStringTools.java
+END
+TestOpenBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestOpenBitSet.java
+END
+TestArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestArrayUtil.java
+END
+TestRamUsageEstimatorOnWildAnimals.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1304513/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestRamUsageEstimatorOnWildAnimals.java
+END
+TestRecyclingByteBlockAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestRecyclingByteBlockAllocator.java
+END
+TestBytesRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestBytesRef.java
+END
+TestNumericUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestNumericUtils.java
+END
+TestFieldCacheSanityChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestFieldCacheSanityChecker.java
+END
+TestAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestAttributeSource.java
+END
+TestUnicodeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestUnicodeUtil.java
+END
+TestPriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestPriorityQueue.java
+END
+TestIOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestIOUtils.java
+END
+TestRamUsageEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestRamUsageEstimator.java
+END
+TestSortedVIntList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestSortedVIntList.java
+END
+TestSmallFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/util/TestSmallFloat.java
+END

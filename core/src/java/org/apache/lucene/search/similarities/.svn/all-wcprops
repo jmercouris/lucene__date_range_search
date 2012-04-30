@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1304302/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities
+END
+PerFieldSimilarityWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/PerFieldSimilarityWrapper.java
+END
+BasicModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/BasicModel.java
+END
+BasicModelG.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/BasicModelG.java
+END
+BM25Similarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/BM25Similarity.java
+END
+AfterEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/AfterEffect.java
+END
+NormalizationH1.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/NormalizationH1.java
+END
+LMSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/LMSimilarity.java
+END
+Distribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/Distribution.java
+END
+Lambda.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/Lambda.java
+END
+NormalizationH3.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/NormalizationH3.java
+END
+BasicModelIF.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/BasicModelIF.java
+END
+SimilarityBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/SimilarityBase.java
+END
+Similarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/Similarity.java
+END
+LambdaDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/LambdaDF.java
+END
+LambdaTTF.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/LambdaTTF.java
+END
+DistributionSPL.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/DistributionSPL.java
+END
+BasicStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/BasicStats.java
+END
+MultiSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/MultiSimilarity.java
+END
+IBSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/IBSimilarity.java
+END
+TFIDFSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1304302/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/TFIDFSimilarity.java
+END
+BasicModelD.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/BasicModelD.java
+END
+LMDirichletSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/LMDirichletSimilarity.java
+END
+DistributionLL.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/DistributionLL.java
+END
+BasicModelBE.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/BasicModelBE.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/package.html
+END
+LMJelinekMercerSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/LMJelinekMercerSimilarity.java
+END
+NormalizationZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/NormalizationZ.java
+END
+NormalizationH2.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/NormalizationH2.java
+END
+AfterEffectB.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/AfterEffectB.java
+END
+BasicModelP.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/BasicModelP.java
+END
+DFRSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/DFRSimilarity.java
+END
+Normalization.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/Normalization.java
+END
+BasicModelIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/BasicModelIn.java
+END
+AfterEffectL.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/AfterEffectL.java
+END
+DefaultSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/DefaultSimilarity.java
+END
+BasicModelIne.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/similarities/BasicModelIne.java
+END

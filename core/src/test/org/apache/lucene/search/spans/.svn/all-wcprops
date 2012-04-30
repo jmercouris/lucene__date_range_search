@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans
+END
+TestNearSpansOrdered.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestNearSpansOrdered.java
+END
+TestSpanFirstQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestSpanFirstQuery.java
+END
+MultiSpansWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/MultiSpansWrapper.java
+END
+TestBasics.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestBasics.java
+END
+TestSpans.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestSpans.java
+END
+TestFieldMaskingSpanQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestFieldMaskingSpanQuery.java
+END
+TestSpanExplanations.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestSpanExplanations.java
+END
+JustCompileSearchSpans.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/JustCompileSearchSpans.java
+END
+TestSpanSearchEquivalence.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1299671/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestSpanSearchEquivalence.java
+END
+TestSpansAdvanced.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestSpansAdvanced.java
+END
+TestSpanMultiTermQueryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestSpanMultiTermQueryWrapper.java
+END
+TestSpanExplanationsOfNonMatches.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestSpanExplanationsOfNonMatches.java
+END
+TestSpansAdvanced2.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestSpansAdvanced2.java
+END
+TestPayloadSpans.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/spans/TestPayloadSpans.java
+END

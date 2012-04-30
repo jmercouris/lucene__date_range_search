@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/doc-files
+END
+ss.computeLengthNorm.svg
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1294920/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/doc-files/ss.computeLengthNorm.svg
+END
+ss.gnuplot
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/doc-files/ss.gnuplot
+END
+ss.hyperbolicTf.svg
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1294920/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/doc-files/ss.hyperbolicTf.svg
+END
+ss.baselineTf.svg
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1294920/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/doc-files/ss.baselineTf.svg
+END

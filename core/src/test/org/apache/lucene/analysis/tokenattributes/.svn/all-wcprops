@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1296805/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis/tokenattributes
+END
+TestSimpleAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1296805/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis/tokenattributes/TestSimpleAttributeImpl.java
+END
+TestCharTermAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/analysis/tokenattributes/TestCharTermAttributeImpl.java
+END

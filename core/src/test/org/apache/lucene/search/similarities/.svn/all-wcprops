@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/similarities
+END
+TestSimilarityBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/similarities/TestSimilarityBase.java
+END
+TestSimilarity2.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/core/src/test/org/apache/lucene/search/similarities/TestSimilarity2.java
+END

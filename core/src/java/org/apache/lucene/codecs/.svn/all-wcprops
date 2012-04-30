@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs
+END
+MappingMultiDocsAndPositionsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/MappingMultiDocsAndPositionsEnum.java
+END
+StoredFieldsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/StoredFieldsFormat.java
+END
+DocValuesConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1297920/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/DocValuesConsumer.java
+END
+BlockTermsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/BlockTermsWriter.java
+END
+MappingMultiDocsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/MappingMultiDocsEnum.java
+END
+DocValuesArraySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/DocValuesArraySource.java
+END
+FieldInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/FieldInfosReader.java
+END
+SegmentInfosFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/SegmentInfosFormat.java
+END
+PostingsBaseFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/PostingsBaseFormat.java
+END
+FieldsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/FieldsProducer.java
+END
+StoredFieldsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/StoredFieldsReader.java
+END
+FixedGapTermsIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1300547/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/FixedGapTermsIndexReader.java
+END
+FieldInfosWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/FieldInfosWriter.java
+END
+PostingsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/PostingsFormat.java
+END
+LiveDocsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/LiveDocsFormat.java
+END
+PostingsConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/PostingsConsumer.java
+END
+FieldsConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/FieldsConsumer.java
+END
+BlockTermState.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/BlockTermState.java
+END
+SegmentInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/SegmentInfosReader.java
+END
+PostingsReaderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/PostingsReaderBase.java
+END
+StoredFieldsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/StoredFieldsWriter.java
+END
+TermStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/TermStats.java
+END
+TermVectorsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/TermVectorsFormat.java
+END
+FixedGapTermsIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1297162/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/FixedGapTermsIndexWriter.java
+END
+MultiLevelSkipListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1309866/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/MultiLevelSkipListReader.java
+END
+SegmentInfosWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/SegmentInfosWriter.java
+END
+PostingsWriterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/PostingsWriterBase.java
+END
+TermsIndexReaderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1297162/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/TermsIndexReaderBase.java
+END
+TermVectorsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/TermVectorsReader.java
+END
+MultiLevelSkipListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1309866/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/MultiLevelSkipListWriter.java
+END
+VariableGapTermsIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/VariableGapTermsIndexReader.java
+END
+TermsConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/TermsConsumer.java
+END
+NormsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/NormsFormat.java
+END
+BlockTreeTermsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/BlockTreeTermsReader.java
+END
+TermVectorsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/TermVectorsWriter.java
+END
+TermsIndexWriterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/TermsIndexWriterBase.java
+END
+PerDocProducerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1299384/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/PerDocProducerBase.java
+END
+Codec.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1299510/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/Codec.java
+END
+VariableGapTermsIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1297162/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/VariableGapTermsIndexWriter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/package.html
+END
+PerDocProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/PerDocProducer.java
+END
+BlockTreeTermsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/BlockTreeTermsWriter.java
+END
+PerDocConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/PerDocConsumer.java
+END
+BlockTermsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/BlockTermsReader.java
+END
+FieldInfosFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/FieldInfosFormat.java
+END
+DocValuesFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/DocValuesFormat.java
+END

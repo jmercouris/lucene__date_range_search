@@ -1,0 +1,593 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1325092/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search
+END
+CachingCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/CachingCollector.java
+END
+MatchOnlyTermScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/MatchOnlyTermScorer.java
+END
+ScoringRewrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ScoringRewrite.java
+END
+FieldCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1302133/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FieldCache.java
+END
+MultiTermQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1291320/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/MultiTermQuery.java
+END
+TotalHitCountCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TotalHitCountCollector.java
+END
+BoostAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/BoostAttribute.java
+END
+ConstantScoreQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ConstantScoreQuery.java
+END
+FuzzyQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FuzzyQuery.java
+END
+MultiTermQueryWrapperFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/MultiTermQueryWrapperFilter.java
+END
+BooleanScorer2.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1297162/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/BooleanScorer2.java
+END
+RegexpQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/RegexpQuery.java
+END
+MatchAllDocsQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/MatchAllDocsQuery.java
+END
+NumericRangeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/NumericRangeFilter.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/Filter.java
+END
+DisjunctionMaxQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1307012/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/DisjunctionMaxQuery.java
+END
+ReferenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245710/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ReferenceManager.java
+END
+FieldValueHitQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FieldValueHitQueue.java
+END
+FieldCacheRangeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FieldCacheRangeFilter.java
+END
+TopScoreDocCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TopScoreDocCollector.java
+END
+PrefixTermsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/PrefixTermsEnum.java
+END
+MatchOnlyConjunctionTermsScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/MatchOnlyConjunctionTermsScorer.java
+END
+ConjunctionScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ConjunctionScorer.java
+END
+SloppyPhraseScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1299112/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/SloppyPhraseScorer.java
+END
+DocIdSetIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/DocIdSetIterator.java
+END
+DisjunctionMaxScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/DisjunctionMaxScorer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/package.html
+END
+TopFieldDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TopFieldDocs.java
+END
+TermStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TermStatistics.java
+END
+MultiPhraseQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1299112/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/MultiPhraseQuery.java
+END
+PrefixQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/PrefixQuery.java
+END
+FilteredQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FilteredQuery.java
+END
+TermRangeTermsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TermRangeTermsEnum.java
+END
+Collector.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/Collector.java
+END
+FilteredDocIdSetIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FilteredDocIdSetIterator.java
+END
+SearcherManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1245710/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/SearcherManager.java
+END
+FieldCacheTermsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FieldCacheTermsFilter.java
+END
+PositiveScoresOnlyCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/PositiveScoresOnlyCollector.java
+END
+PhrasePositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1299112/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/PhrasePositions.java
+END
+TermRangeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TermRangeFilter.java
+END
+NRTManagerReopenThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1245710/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/NRTManagerReopenThread.java
+END
+ConjunctionTermScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ConjunctionTermScorer.java
+END
+BitsFilteredDocIdSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/BitsFilteredDocIdSet.java
+END
+PhraseScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1299112/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/PhraseScorer.java
+END
+TimeLimitingCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1296996/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TimeLimitingCollector.java
+END
+PrefixFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/PrefixFilter.java
+END
+CachingWrapperFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/CachingWrapperFilter.java
+END
+NumericRangeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/NumericRangeQuery.java
+END
+BooleanQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1307012/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/BooleanQuery.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/Query.java
+END
+CollectionStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/CollectionStatistics.java
+END
+SearcherLifetimeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/SearcherLifetimeManager.java
+END
+PhraseQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1325092/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/PhraseQuery.java
+END
+FieldDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FieldDoc.java
+END
+TermRangeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TermRangeQuery.java
+END
+FieldComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1299495/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FieldComparator.java
+END
+TopDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TopDocs.java
+END
+ReqOptSumScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ReqOptSumScorer.java
+END
+TopTermsRewrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TopTermsRewrite.java
+END
+ConstantScoreAutoRewrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ConstantScoreAutoRewrite.java
+END
+Explanation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/Explanation.java
+END
+FieldCacheDocIdSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FieldCacheDocIdSet.java
+END
+MaxNonCompetitiveBoostAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/MaxNonCompetitiveBoostAttributeImpl.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/Sort.java
+END
+SortField.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/SortField.java
+END
+DisjunctionSumScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/DisjunctionSumScorer.java
+END
+NGramPhraseQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/NGramPhraseQuery.java
+END
+BooleanScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1297162/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/BooleanScorer.java
+END
+Scorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/Scorer.java
+END
+TermQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TermQuery.java
+END
+DocIdSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/DocIdSet.java
+END
+MultiCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/MultiCollector.java
+END
+ScoreDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ScoreDoc.java
+END
+MaxNonCompetitiveBoostAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/MaxNonCompetitiveBoostAttribute.java
+END
+ComplexExplanation.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ComplexExplanation.java
+END
+BooleanClause.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/BooleanClause.java
+END
+QueryWrapperFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/QueryWrapperFilter.java
+END
+FilteredDocIdSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1292282/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FilteredDocIdSet.java
+END
+TermCollectingRewrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TermCollectingRewrite.java
+END
+TopFieldCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TopFieldCollector.java
+END
+ScoreCachingWrappingScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ScoreCachingWrappingScorer.java
+END
+WildcardQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/WildcardQuery.java
+END
+ReqExclScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ReqExclScorer.java
+END
+TopDocsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TopDocsCollector.java
+END
+IndexSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1298034/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/IndexSearcher.java
+END
+SearcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/SearcherFactory.java
+END
+ExactPhraseScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/ExactPhraseScorer.java
+END
+TermScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/TermScorer.java
+END
+FieldValueFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FieldValueFilter.java
+END
+PhraseQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/PhraseQueue.java
+END
+FuzzyTermsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1293148/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FuzzyTermsEnum.java
+END
+Weight.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/Weight.java
+END
+HitQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/HitQueue.java
+END
+FieldCacheImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FieldCacheImpl.java
+END
+BoostAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/BoostAttributeImpl.java
+END
+FieldComparatorSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/FieldComparatorSource.java
+END
+AutomatonQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/AutomatonQuery.java
+END
+NRTManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1245715/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/NRTManager.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/store
+END
+NativeUnixDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/store/NativeUnixDirectory.java
+END
+WindowsDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/store/WindowsDirectory.java
+END
+WindowsDirectory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1042373/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/store/WindowsDirectory.cpp
+END
+NativePosixUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/957520/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/store/NativePosixUtil.java
+END
+NativePosixUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1243863/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/store/NativePosixUtil.cpp
+END

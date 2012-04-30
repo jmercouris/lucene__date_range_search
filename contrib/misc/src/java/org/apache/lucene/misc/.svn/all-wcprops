@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc
+END
+GetTermInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1302752/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/GetTermInfo.java
+END
+SweetSpotSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1294920/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/SweetSpotSimilarity.java
+END
+IndexMergeTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1201036/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/IndexMergeTool.java
+END
+TermStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1206143/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/TermStats.java
+END
+HighFreqTerms.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/HighFreqTerms.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1302713/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/misc/package.html
+END

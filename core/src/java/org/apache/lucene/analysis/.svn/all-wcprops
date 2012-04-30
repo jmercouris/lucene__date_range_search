@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1311097/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis
+END
+NumericTokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/NumericTokenStream.java
+END
+CharReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/CharReader.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1310910/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/Token.java
+END
+CachingTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/CachingTokenFilter.java
+END
+Analyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/Analyzer.java
+END
+AnalyzerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/AnalyzerWrapper.java
+END
+TokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/TokenFilter.java
+END
+CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/CharStream.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1242890/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/Tokenizer.java
+END
+TokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/TokenStream.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1242498/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/analysis/package.html
+END

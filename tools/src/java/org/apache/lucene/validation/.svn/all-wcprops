@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1309503/lucene/dev/trunk/lucene/tools/src/java/org/apache/lucene/validation
+END
+LicenseCheckTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1309503/lucene/dev/trunk/lucene/tools/src/java/org/apache/lucene/validation/LicenseCheckTask.java
+END
+LicenseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1243527/lucene/dev/trunk/lucene/tools/src/java/org/apache/lucene/validation/LicenseType.java
+END

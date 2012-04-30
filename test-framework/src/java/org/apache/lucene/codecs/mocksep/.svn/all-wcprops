@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/mocksep
+END
+MockSingleIntIndexOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1301541/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/mocksep/MockSingleIntIndexOutput.java
+END
+MockSepDocValuesFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/mocksep/MockSepDocValuesFormat.java
+END
+MockSepPostingsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/mocksep/MockSepPostingsFormat.java
+END
+MockSingleIntFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/mocksep/MockSingleIntFactory.java
+END
+MockSingleIntIndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/mocksep/MockSingleIntIndexInput.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1159002/lucene/dev/trunk/lucene/contrib/demo/src/resources/org/apache/lucene/demo/xmlparser/WEB-INF
+END
+data.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1159002/lucene/dev/trunk/lucene/contrib/demo/src/resources/org/apache/lucene/demo/xmlparser/WEB-INF/data.tsv
+END
+query.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1159002/lucene/dev/trunk/lucene/contrib/demo/src/resources/org/apache/lucene/demo/xmlparser/WEB-INF/query.xsl
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1159002/lucene/dev/trunk/lucene/contrib/demo/src/resources/org/apache/lucene/demo/xmlparser/WEB-INF/web.xml
+END

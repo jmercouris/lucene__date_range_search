@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/mockintblock
+END
+MockFixedIntBlockPostingsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/mockintblock/MockFixedIntBlockPostingsFormat.java
+END
+MockVariableIntBlockPostingsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/mockintblock/MockVariableIntBlockPostingsFormat.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1297162/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries
+END
+DuplicateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/DuplicateFilter.java
+END
+SlowCollatedTermRangeTermsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1171489/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/SlowCollatedTermRangeTermsEnum.java
+END
+SlowCollatedTermRangeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1159846/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/SlowCollatedTermRangeFilter.java
+END
+SlowCollatedTermRangeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1202842/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/SlowCollatedTermRangeQuery.java
+END
+FuzzyLikeThisQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1224817/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery.java
+END
+SlowCollatedStringComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1297162/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/SlowCollatedStringComparator.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1309503/lucene/dev/trunk/lucene/contrib/demo/lib
+END
+servlet-api-2.4.jar.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1309503/lucene/dev/trunk/lucene/contrib/demo/lib/servlet-api-2.4.jar.sha1
+END
+servlet-api-LICENSE-ASL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1159002/lucene/dev/trunk/lucene/contrib/demo/lib/servlet-api-LICENSE-ASL.txt
+END
+servlet-api-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1159002/lucene/dev/trunk/lucene/contrib/demo/lib/servlet-api-NOTICE.txt
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/payloads
+END
+PayloadFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/payloads/PayloadFunction.java
+END
+MinPayloadFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/payloads/MinPayloadFunction.java
+END
+MaxPayloadFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/payloads/MaxPayloadFunction.java
+END
+PayloadNearQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1306626/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/payloads/PayloadNearQuery.java
+END
+PayloadTermQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1297162/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/payloads/PayloadTermQuery.java
+END
+PayloadSpanUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1297048/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/payloads/PayloadSpanUtil.java
+END
+AveragePayloadFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/payloads/AveragePayloadFunction.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/search/payloads/package.html
+END

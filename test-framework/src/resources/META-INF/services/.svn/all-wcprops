@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/resources/META-INF/services
+END
+org.apache.lucene.codecs.Codec
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/resources/META-INF/services/org.apache.lucene.codecs.Codec
+END
+org.apache.lucene.codecs.PostingsFormat
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/resources/META-INF/services/org.apache.lucene.codecs.PostingsFormat
+END

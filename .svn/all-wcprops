@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/1326413/lucene/dev/trunk/lucene
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1309590/lucene/dev/trunk/lucene/NOTICE.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1307563/lucene/dev/trunk/lucene/LICENSE.txt
+END
+module-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1326329/lucene/dev/trunk/lucene/module-build.xml
+END
+common-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1326413/lucene/dev/trunk/lucene/common-build.xml
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1324960/lucene/dev/trunk/lucene/CHANGES.txt
+END
+MIGRATE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1304505/lucene/dev/trunk/lucene/MIGRATE.txt
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/index.html
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1290830/lucene/dev/trunk/lucene/README.txt
+END
+JRE_VERSION_MIGRATION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1151984/lucene/dev/trunk/lucene/JRE_VERSION_MIGRATION.txt
+END
+BUILD.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1309022/lucene/dev/trunk/lucene/BUILD.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1326376/lucene/dev/trunk/lucene/build.xml
+END

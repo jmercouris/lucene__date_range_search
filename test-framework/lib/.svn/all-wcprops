@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/lib
+END
+junit-4.10.jar.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1309503/lucene/dev/trunk/lucene/test-framework/lib/junit-4.10.jar.sha1
+END
+ant-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1307563/lucene/dev/trunk/lucene/test-framework/lib/ant-NOTICE.txt
+END
+ant-junit-1.7.1.jar.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1309503/lucene/dev/trunk/lucene/test-framework/lib/ant-junit-1.7.1.jar.sha1
+END
+ant-junit-LICENSE-ASL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1307563/lucene/dev/trunk/lucene/test-framework/lib/ant-junit-LICENSE-ASL.txt
+END
+junit-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1307563/lucene/dev/trunk/lucene/test-framework/lib/junit-NOTICE.txt
+END
+junit4-ant-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/lib/junit4-ant-NOTICE.txt
+END
+ant-1.7.1.jar.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1309503/lucene/dev/trunk/lucene/test-framework/lib/ant-1.7.1.jar.sha1
+END
+ant-LICENSE-ASL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1307563/lucene/dev/trunk/lucene/test-framework/lib/ant-LICENSE-ASL.txt
+END
+randomizedtesting-runner-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/lib/randomizedtesting-runner-NOTICE.txt
+END
+junit4-ant-1.1.0.jar.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/lib/junit4-ant-1.1.0.jar.sha1
+END
+randomizedtesting-runner-1.1.0.jar.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/lib/randomizedtesting-runner-1.1.0.jar.sha1
+END
+junit-LICENSE-CPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1307563/lucene/dev/trunk/lucene/test-framework/lib/junit-LICENSE-CPL.txt
+END
+ant-junit-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1307563/lucene/dev/trunk/lucene/test-framework/lib/ant-junit-NOTICE.txt
+END
+junit4-ant-LICENSE-ASL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/lib/junit4-ant-LICENSE-ASL.txt
+END
+randomizedtesting-runner-LICENSE-ASL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/test-framework/lib/randomizedtesting-runner-LICENSE-ASL.txt
+END

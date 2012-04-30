@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/common/images
+END
+poddoc.svg.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/common/images/poddoc.svg.xslt
+END
+page.gif
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/site/src/documentation/skins/common/images/page.gif
+END
+current.gif
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/site/src/documentation/skins/common/images/current.gif
+END
+chapter.gif
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/site/src/documentation/skins/common/images/chapter.gif
+END
+corner-imports.svg.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/common/images/corner-imports.svg.xslt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/site/src/documentation/skins/common/images/README.txt
+END
+rc.svg.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/common/images/rc.svg.xslt
+END
+txtdoc.svg.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/common/images/txtdoc.svg.xslt
+END
+dc.svg.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1305492/lucene/dev/trunk/lucene/site/src/documentation/skins/common/images/dc.svg.xslt
+END

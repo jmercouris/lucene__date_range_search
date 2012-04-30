@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight
+END
+InvalidTokenOffsetsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/InvalidTokenOffsetsException.java
+END
+SimpleHTMLFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/SimpleHTMLFormatter.java
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/Formatter.java
+END
+SpanGradientFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/SpanGradientFormatter.java
+END
+SimpleFragmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/SimpleFragmenter.java
+END
+WeightedSpanTermExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1238085/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/WeightedSpanTermExtractor.java
+END
+TextFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1040463/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/TextFragment.java
+END
+WeightedSpanTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1226417/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/WeightedSpanTerm.java
+END
+QueryTermScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryTermScorer.java
+END
+SimpleHTMLEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/SimpleHTMLEncoder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1076237/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/package.html
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/Encoder.java
+END
+TokenStreamFromTermPositionVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1231794/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/TokenStreamFromTermPositionVector.java
+END
+GradientFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/GradientFormatter.java
+END
+QueryScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1226417/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryScorer.java
+END
+DefaultEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/DefaultEncoder.java
+END
+TokenSources.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/TokenSources.java
+END
+NullFragmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/NullFragmenter.java
+END
+PositionSpan.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/PositionSpan.java
+END
+SimpleSpanFragmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/SimpleSpanFragmenter.java
+END
+WeightedTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/WeightedTerm.java
+END
+QueryTermExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1138058/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryTermExtractor.java
+END
+Fragmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/Fragmenter.java
+END
+OffsetLimitTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1097216/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/OffsetLimitTokenFilter.java
+END
+Scorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/Scorer.java
+END
+TokenGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/TokenGroup.java
+END
+Highlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1176728/lucene/dev/trunk/lucene/contrib/highlighter/src/java/org/apache/lucene/search/highlight/Highlighter.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1207564/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/regex
+END
+RegexQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1202842/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/regex/RegexQuery.java
+END
+JakartaRegexpCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159846/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/regex/JakartaRegexpCapabilities.java
+END
+JavaUtilRegexCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159846/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/regex/JavaUtilRegexCapabilities.java
+END
+RegexCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1159846/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/regex/RegexCapabilities.java
+END
+RegexQueryCapable.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1159846/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/regex/RegexQueryCapable.java
+END
+RegexTermsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1207564/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/regex/RegexTermsEnum.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1159846/lucene/dev/trunk/lucene/contrib/sandbox/src/java/org/apache/lucene/sandbox/queries/regex/package.html
+END

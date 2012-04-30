@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/memory
+END
+MemoryPostingsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/memory/MemoryPostingsFormat.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/memory/package.html
+END

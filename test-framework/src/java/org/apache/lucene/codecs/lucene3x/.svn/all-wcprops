@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x
+END
+PreFlexRWStoredFieldsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1303738/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWStoredFieldsFormat.java
+END
+PreFlexRWFieldsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWFieldsWriter.java
+END
+TermInfosWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1297518/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/TermInfosWriter.java
+END
+PreFlexRWFieldInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWFieldInfosReader.java
+END
+PreFlexRWNormsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWNormsFormat.java
+END
+PreFlexRWTermVectorsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWTermVectorsWriter.java
+END
+PreFlexRWSegmentInfosFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWSegmentInfosFormat.java
+END
+PreFlexRWNormsConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1299384/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWNormsConsumer.java
+END
+PreFlexRWCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWCodec.java
+END
+PreFlexRWPostingsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWPostingsFormat.java
+END
+PreFlexRWFieldInfosWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWFieldInfosWriter.java
+END
+PreFlexRWStoredFieldsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWStoredFieldsWriter.java
+END
+PreFlexRWTermVectorsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWTermVectorsFormat.java
+END
+PreFlexRWFieldInfosFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWFieldInfosFormat.java
+END
+PreFlexRWSegmentInfosWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/codecs/lucene3x/PreFlexRWSegmentInfosWriter.java
+END

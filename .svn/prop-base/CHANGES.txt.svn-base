@@ -1,0 +1,18 @@
+K 15
+cvs2svn:cvs-rev
+V 5
+1.139
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+K 13
+svn:mergeinfo
+V 252
+/lucene/dev/branches/branch_3x/lucene/CHANGES.txt:1232954,1302749,1302808,1303007,1303023,1303269,1303733,1303854,1304295,1304360,1304660,1304904,1305142,1305719,1305741,1305816,1305837
+/lucene/dev/branches/lucene3969/lucene/CHANGES.txt:1311219-1324948
+END

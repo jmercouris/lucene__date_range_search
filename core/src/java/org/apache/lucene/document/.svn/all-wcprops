@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document
+END
+LongField.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/LongField.java
+END
+StoredField.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/StoredField.java
+END
+FloatField.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/FloatField.java
+END
+StringField.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/StringField.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/package.html
+END
+DoubleField.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/DoubleField.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/Document.java
+END
+CompressionTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/CompressionTools.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/Field.java
+END
+DocumentStoredFieldVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/DocumentStoredFieldVisitor.java
+END
+FieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/FieldType.java
+END
+TextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/TextField.java
+END
+DocValuesField.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1243725/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/DocValuesField.java
+END
+IntField.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/IntField.java
+END
+DateTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/document/DateTools.java
+END

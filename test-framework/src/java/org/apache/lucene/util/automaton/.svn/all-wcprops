@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/util/automaton
+END
+DaciukMihovAutomatonBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/util/automaton/DaciukMihovAutomatonBuilder.java
+END
+AutomatonTestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/test-framework/src/java/org/apache/lucene/util/automaton/AutomatonTestUtil.java
+END

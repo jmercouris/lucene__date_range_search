@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/highlight
+END
+HighlighterPhraseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/highlight/HighlighterPhraseTest.java
+END
+TokenSourcesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1242890/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/highlight/TokenSourcesTest.java
+END
+OffsetLimitTokenFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1175297/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/highlight/OffsetLimitTokenFilterTest.java
+END
+HighlighterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1326351/lucene/dev/trunk/lucene/contrib/highlighter/src/test/org/apache/lucene/search/highlight/HighlighterTest.java
+END

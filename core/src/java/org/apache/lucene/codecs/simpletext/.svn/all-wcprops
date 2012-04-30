@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext
+END
+SimpleTextPerDocProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextPerDocProducer.java
+END
+SimpleTextLiveDocsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextLiveDocsFormat.java
+END
+SimpleTextSegmentInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextSegmentInfosReader.java
+END
+SimpleTextStoredFieldsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextStoredFieldsWriter.java
+END
+SimpleTextTermVectorsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextTermVectorsFormat.java
+END
+SimpleTextPerDocConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextPerDocConsumer.java
+END
+SimpleTextFieldsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextFieldsReader.java
+END
+SimpleTextFieldInfosFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextFieldInfosFormat.java
+END
+SimpleTextSegmentInfosWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextSegmentInfosWriter.java
+END
+SimpleTextDocValuesFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextDocValuesFormat.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/package.html
+END
+SimpleTextStoredFieldsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextStoredFieldsFormat.java
+END
+SimpleTextTermVectorsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1312037/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextTermVectorsReader.java
+END
+SimpleTextDocValuesConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1305339/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextDocValuesConsumer.java
+END
+SimpleTextFieldsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextFieldsWriter.java
+END
+SimpleTextFieldInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextFieldInfosReader.java
+END
+SimpleTextNormsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1299384/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextNormsFormat.java
+END
+SimpleTextSegmentInfosFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextSegmentInfosFormat.java
+END
+SimpleTextStoredFieldsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextStoredFieldsReader.java
+END
+SimpleTextTermVectorsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextTermVectorsWriter.java
+END
+SimpleTextCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1297920/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextCodec.java
+END
+SimpleTextUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextUtil.java
+END
+SimpleTextPostingsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1310998/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextPostingsFormat.java
+END
+SimpleTextFieldInfosWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1241588/lucene/dev/trunk/lucene/core/src/java/org/apache/lucene/codecs/simpletext/SimpleTextFieldInfosWriter.java
+END
